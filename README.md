@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+duyledat197+github&center=true)](https://git.io/typing-svg)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=duyledat197&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 # 💫 About Me:
 
 🔭 I’m currently working on Manabie<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -5,6 +9,12 @@
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/duc.le.7739814)
+
+## Profile views:
+
+[![](https://visitcount.itsvg.in/api?id=duyledat197&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💻 Tech Stack:
 
@@ -16,16 +26,24 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=duyledat197&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duyledat197&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+# GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=duyledat197)](https://git.io/streak-stats)
+
+# Trophy:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=duyledat197&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+
+# ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
+# 😂 Dev Meme
 
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=duyledat197&icon=0&color=0)](https://visitcount.itsvg.in)
+# Jokers Card
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
